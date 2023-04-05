@@ -29,6 +29,9 @@ Testing the webserver
 ## PROGRAM:
 
 ## OUTPUT:
+![Screenshot (1)](https://user-images.githubusercontent.com/122986499/230133678-b0dfee95-9d82-468c-9a2f-abceee50ddc5.png)
+
 
 ## RESULT:
+
 The program is executed succesfully
